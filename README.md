@@ -1,5 +1,7 @@
 # Qinglong on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/qinglong?utm_medium=integration&utm_source=button&utm_campaign=qinglong)
+
 One-click [Railway](https://railway.com) template for [Qinglong](https://github.com/whyour/qinglong) (青龙), a web panel that schedules and runs Python, JavaScript, TypeScript and Shell scripts on cron timers, with logs, environment variables, dependency installs and notifications.
 
 **Version:** Qinglong **2.24.0**, official image `whyour/qinglong:2.24.0@sha256:2431b8b92d5822423d7d598110294691ae2a32d7fbde5c5d5a963db8b4f47cc3` (pinned by version and digest in the [`Dockerfile`](Dockerfile)).
